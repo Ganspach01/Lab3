@@ -1,0 +1,15 @@
+#Grace Anspach
+import turtle
+fred=turtle.Turtle()
+fred.color("cyan")
+fred.forward(100)
+fred.right(90)
+fred.color("green")
+fred.forward(100)
+fred.right(90)
+fred.color("blue")
+fred.forward(100)
+fred.right(90)
+fred.color("gold")
+fred.forward(100)
+fred.right(90)
